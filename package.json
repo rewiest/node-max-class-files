@@ -1,7 +1,7 @@
 {
   "name": "max-class",
   "version": "1.0.0",
-  "description": "",
+  "description": "node max class for files as data store",
   "main": "server.js",
   "scripts": {
     "start": "nodemon app.js",
